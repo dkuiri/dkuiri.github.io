@@ -1,0 +1,20 @@
+---
+layout: default
+title: Dibyendu Kuiri
+---
+
+# Dibyendu Kuiri
+*Researcher | Condensed Matter Physicist*
+
+Welcome to my academic portfolio.  
+I am a researcher from Purulia, West Bengal, India.  
+I have recently submitted my **Ph.D. thesis** titled  
+**“Electronic Transport and Topological Superconductivity in Nanoscopic Josephson Junctions”**  
+under the supervision of **Dr. Michal P. Nowak** at the  
+**Department of Theory of Quantum Systems, Academic Centre for Materials and Nanotechnology (ACMiN), AGH University of Krakow**.
+
+My research focuses on **quantum transport**, **superconductivity**, and **topological phases of matter** in low-dimensional and hybrid superconducting systems.
+
+[→ About Me](/about/)  
+[→ Research Interests](/research/)  
+[→ Publications](/publications/)
