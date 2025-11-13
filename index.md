@@ -2,6 +2,8 @@
 layout: default
 title: Dibyendu Kuiri
 ---
+<img src="/assets/photo.jpg" alt="Dibyendu Kuiri" width="180" style="border-radius:50%; display:block; margin:auto;">
+
 
 # Dibyendu Kuiri
 *Researcher | Condensed Matter Physicist*
