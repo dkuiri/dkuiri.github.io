@@ -6,6 +6,11 @@ Below is a list of my peer-reviewed journal articles.
 
 ## 🧾 Journal Articles
 
+5. **Impact of spin–orbit coupling and Zeeman interaction on the subharmonic gap structure due to multiple Andreev reflections in nanoscopic Josephson junctions**
+   D. Kuiri, J. H. Correa, A. Biborski, M. P. Nowak
+   *arXiv preprint* **arXiv:2511.11277** (2025).
+   [arXiv: 2511.11277](https://arxiv.org/abs/2511.11277)
+
 4. **Enhancement of the topological regime in elongated Josephson junctions**  
    D. Kuiri, P. Wójcik, M. P. Nowak  
    *Physical Review B* **111**, 085416 (2025).  
