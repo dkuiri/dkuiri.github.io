@@ -8,19 +8,17 @@ I am particularly interested in how geometry, material properties, and supercond
 
 ## 🔬 Research Interests
 
-- Quantum transport in nanoscale and low-dimensional systems  
-- Superconductivity and topological superconductors  
+- Quantum transport and topological superconductivity in hybrid quantum systems:  
+- Altermagnetism and spin-polarized transport
 - Topological phases of matter  
 - Mesoscopic Josephson junctions  
-- Theoretical modeling and numerical simulation techniques (*Kwant*, *Tkwant*)
+- Non-Hermitian physics and open quantum systems
+_ Vortex dynamics in Bose–Einstein condensates and unconventional superconductors
 
 ---
 
-## 🧠 Research Overview
 
-My work explores how superconductivity and topology intertwine to give rise to novel quasiparticle excitations, such as **Majorana bound states**, in nanoscopic and hybrid Josephson junctions.  
 
-I use **theoretical modeling** and **numerical simulations** to study non-local transport signatures, Andreev bound states, and phase-controlled topological transitions in these systems.
 
 ---
 
