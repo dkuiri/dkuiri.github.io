@@ -13,7 +13,6 @@ I am particularly interested in how geometry, material properties, and supercond
 - Topological phases of matter  
 - Mesoscopic Josephson junctions  
 - Non-Hermitian physics and open quantum systems
-_ Vortex dynamics in Bose–Einstein condensates and unconventional superconductors
 
 ---
 
