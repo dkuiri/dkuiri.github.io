@@ -1,4 +1,4 @@
-i# About Me
+# About Me
 
 Hi, I’m **Dibyendu Kuiri** from Purulia, West Bengal, India.
 
