@@ -8,6 +8,9 @@ title: Dibyendu Kuiri
 # Dibyendu Kuiri
 *Researcher | Condensed Matter Physicist*
 
+[Google Scholar](https://scholar.google.com/citations?user=K1jTqmYAAAAJ) |
+[LinkedIn](https://www.linkedin.com/in/dibyendu-kuiri-157782200/)
+
 Welcome to my academic portfolio.  
 I am a researcher from Purulia, West Bengal, India.  
 I have recently submitted my **Ph.D. thesis** titled  
