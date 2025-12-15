@@ -24,4 +24,5 @@ My research focuses on **quantum transport**, **superconductivity**, and **topol
 [→ Research Interests](/research/)  
 [→ Publications](/publications/)
 [→ Academic Experience](/experience/)
+[→ Technical & Research Skills](/skills/)
 
