@@ -11,7 +11,7 @@ title: Dibyendu Kuiri
 [Google Scholar](https://scholar.google.com/citations?user=K1jTqmYAAAAJ) |
 [LinkedIn](https://www.linkedin.com/in/dibyendu-kuiri-157782200/)
 
-Welcome to my academic portfolio.  
+Welcome to my homepage.  
 I am a researcher from Purulia, West Bengal, India.  
 I have recently submitted my **Ph.D. thesis** titled  
 **“Electronic Transport and Topological Superconductivity in Nanoscopic Josephson Junctions”**  
