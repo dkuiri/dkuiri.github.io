@@ -24,8 +24,8 @@ title: Technical & Research Skills
 
 ## Scientific Simulation
 - Tight-binding quantum transport simulations  
-- Modeling Andreev bound states, Majorana bound states, Multiple Andreev reflection processes in superconducting hybrid systems  
-- Numerical solutions of time dependent mesoscopic transport problems  
+- Modeling Andreev bound states, Majorana bound states and multiple Andreev reflections in superconducting hybrid systems  
+- Numerical simulations of time dependent quantum transport
 
 ---
 
@@ -34,4 +34,3 @@ title: Technical & Research Skills
 - Inkscape (technical illustrations)  
 - GNU Octave / MATLAB  
 - VS Code, Jupyter, Conda environments  
-
