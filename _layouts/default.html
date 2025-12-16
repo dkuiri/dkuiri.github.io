@@ -4,13 +4,45 @@
     <meta charset="UTF-8">
     <title>{{ page.title | escape }} • {{ site.title | escape }}</title>
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <style>
+      .sidebar {
+        width: 260px;
+        float: left;
+        padding: 20px;
+        border-right: 1px solid #ddd;
+      }
+      .content {
+        margin-left: 300px;
+        padding: 20px;
+      }
+      .nav-item {
+        font-size: 16px;
+        margin: 8px 0;
+      }
+      .nav-item a {
+        text-decoration: none;
+        color: #0366d6;
+      }
+      .nav-item a:hover {
+        text-decoration: underline;
+      }
+    </style>
   </head>
 
   <body>
-    <div class="wrapper">
-      <section>
-        {{ content }}
-      </section>
+    <div class="sidebar">
+      <h2>{{ site.title }}</h2>
+
+      <div class="nav-item"><a href="/about/">About Me</a></div>
+      <div class="nav-item"><a href="/research/">Research Interests</a></div>
+      <div class="nav-item"><a href="/publications/">Publications</a></div>
+      <div class="nav-item"><a href="/experience/">Academic Experience</a></div>
+      <div class="nav-item"><a href="/skills/">Technical Skills</a></div>
+    </div>
+
+    <div class="content">
+      {{ content }}
     </div>
   </body>
 </html>
+
