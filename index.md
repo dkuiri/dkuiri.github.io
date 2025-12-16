@@ -13,7 +13,8 @@ title: Dibyendu Kuiri
 <p align="center">
   <a href="https://scholar.google.com/citations?user=K1jTqmYAAAAJ">Google Scholar</a> •
   <a href="https://www.linkedin.com/in/dibyendu-kuiri-157782200/">LinkedIn</a> •
-  <a href="https://www.researchgate.net/profile/Dibyendu-Kuiri?ev=hdr_xprf">ResearchGate</a>
+  <a href="https://www.researchgate.net/profile/Dibyendu-Kuiri?ev=hdr_xprf">ResearchGate</a> •
+  <a href = "https://orcid.org/0000-0001-7555-3708">Orcid</a>
 </p>
 
 ---
@@ -24,7 +25,7 @@ I am a researcher from Purulia, West Bengal, India.
 I have recently submitted my **Ph.D. thesis** titled  
 **“Electronic Transport and Topological Superconductivity in Nanoscopic Josephson Junctions”**  
 under the supervision of [**Prof. Michał P. Nowak**](https://mpnowak.org) at the  
-**Academic Centre for Materials and Nanotechnology (ACMiN), AGH University of Krakow, Krakow, Poland.**.
+**Academic Centre for Materials and Nanotechnology (ACMiN), AGH University of Krakow, Krakow, Poland**.
 
 My research focuses on **quantum transport**, **superconductivity**, and **topological phases of matter** in low-dimensional and hybrid superconducting systems.
 
