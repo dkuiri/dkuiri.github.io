@@ -47,7 +47,8 @@ If you would like to get in touch regarding research discussions, collaborations
   https://github.com/dkuiri
   </a>
 
-- **ORCID**  
-  <a href="https://orcid.org/" target="_blank">
-  https://orcid.org/
+- - **ORCID:**  
+  <a href="https://orcid.org/0000-0001-7555-3708" target="_blank">
+  0000-0001-7555-3708
   </a>
+
