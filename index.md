@@ -10,6 +10,7 @@ title: Dibyendu Kuiri
 <p align="center"><em>Condensed Matter Physicist | Quantum Transport & Superconductivity</em></p>
 <p align="center">
   <a href="https://scholar.google.com/citations?user=K1jTqmYAAAAJ">Google Scholar</a> •
+  <a href='https://github.com/dkuiri'>GitHub</a> •
   <a href="https://www.linkedin.com/in/dibyendu-kuiri-157782200/">LinkedIn</a> •
   <a href="https://www.researchgate.net/profile/Dibyendu-Kuiri?ev=hdr_xprf">ResearchGate</a> •
   <a href = "https://orcid.org/0000-0001-7555-3708">Orcid</a>
