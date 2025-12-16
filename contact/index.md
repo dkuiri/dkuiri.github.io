@@ -5,7 +5,9 @@ title: Contact
 
 # Contact
 
-If you would like to get in touch regarding research discussions, collaborations, or potential postdoctoral opportunities, please feel free to contact me.
+I am currently interested in **postdoctoral opportunities** in theoretical condensed matter physics, with a focus on
+quantum transport and superconducting hybrid systems and welcome inquiries regarding
+research discussions and potential collaborations..
 
 ---
 
@@ -47,4 +49,11 @@ If you would like to get in touch regarding research discussions, collaborations
     <img src="/assets/icons/orcid.svg" width="24">
   </a>
 </p>
+
+## Institutional Affiliation
+
+**Academic Centre for Materials and Nanotechnology (ACMiN)**
+Department of Theory of Quantum Systems
+AGH University of Krakow
+Kraków, Poland.
 
