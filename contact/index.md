@@ -52,8 +52,6 @@ research discussions and potential collaborations..
 
 ## Institutional Affiliation
 
-## Institutional Affiliation
-
 **Academic Centre for Materials and Nanotechnology (ACMiN)**  
 [Department of Theory of Quantum Systems](https://acmin.agh.edu.pl/en/research/department-of-theory-of-quantum-systems)  
 [Academic Centre for Materials and Nanotechnology (ACMiN)](https://acmin.agh.edu.pl/)  
