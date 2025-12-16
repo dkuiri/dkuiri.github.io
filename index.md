@@ -13,14 +13,14 @@ title: Dibyendu Kuiri
   <!-- Right: Text -->
   <div style="flex: 1;">
     <h1>Dibyendu Kuiri</h1>
-    <p><em>Condensed Matter Physicist  |  Quantum Transport & Superconductivity</em></p>
+    <p><em>Condensed matter researcher  |  Quantum transport & superconductivity</em></p>
 
     <p style="margin-top: 8px;">
       <a href="https://scholar.google.com/citations?user=K1jTqmYAAAAJ">Google Scholar</a> •
       <a href="https://github.com/dkuiri">GitHub</a> •
       <a href="https://www.linkedin.com/in/dibyendu-kuiri-157782200/">LinkedIn</a> •
       <a href="https://www.researchgate.net/profile/Dibyendu-Kuiri">ResearchGate</a> •
-      <a href="https://orcid.org/">ORCID</a>
+      <a href="https://orcid.org/0000-0001-7555-3708">ORCID</a>
     </p>
 
     <p style="line-height: 1.6;">
