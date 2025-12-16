@@ -26,29 +26,25 @@ If you would like to get in touch regarding research discussions, collaborations
 ---
 
 ## 🎓 Academic Profiles
-
-- **Google Scholar**  
-  <a href="https://scholar.google.com/citations?user=K1jTqmYAAAAJ" target="_blank">
-  https://scholar.google.com/citations?user=K1jTqmYAAAAJ
+<p class="icon-row" style="margin-top: 10px;">
+  <a href="https://scholar.google.com/citations?user=K1jTqmYAAAAJ" title="Google Scholar">
+    <img src="/assets/icons/scholar.svg" width="24">
   </a>
-
-- **LinkedIn**  
-  <a href="https://www.linkedin.com/in/dibyendu-kuiri-157782200/" target="_blank">
-  https://www.linkedin.com/in/dibyendu-kuiri-157782200/
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dibyendu-kuiri-157782200/" title="LinkedIn">
+    <img src="/assets/icons/linkedin.svg" width="24">
   </a>
-
-- **ResearchGate**  
-  <a href="https://www.researchgate.net/profile/Dibyendu-Kuiri" target="_blank">
-  https://www.researchgate.net/profile/Dibyendu-Kuiri
+  &nbsp;&nbsp;
+  <a href="https://www.researchgate.net/profile/Dibyendu-Kuiri" title="ResearchGate">
+    <img src="/assets/icons/researchgate.svg" width="24">
   </a>
-
-- **GitHub**  
-  <a href="https://github.com/dkuiri" target="_blank">
-  https://github.com/dkuiri
+  &nbsp;&nbsp;
+  <a href="https://github.com/dkuiri" title="GitHub">
+    <img src="/assets/icons/github.svg" width="24">
   </a>
-
-- - **ORCID:**  
-  <a href="https://orcid.org/0000-0001-7555-3708" target="_blank">
-  0000-0001-7555-3708
+  &nbsp;&nbsp;
+  <a href="https://orcid.org/0000-0001-7555-3708" title="ORCID">
+    <img src="/assets/icons/orcid.svg" width="24">
   </a>
+</p>
 
