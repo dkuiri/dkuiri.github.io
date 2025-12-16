@@ -25,10 +25,3 @@ under the supervision of [**Prof. Michał P. Nowak**](https://mpnowak.org) at th
 
 My research focuses on **quantum transport**, **superconductivity**, and **topological phases of matter** in low-dimensional and hybrid superconducting systems.
 
----
-### Navigation 
-[→ Research Interests](/research/)  
-[→ Publications](/publications/)  
-[→ Academic Experience](/experience/)  
-[→ Technical & Research Skills](/skills/)
-
