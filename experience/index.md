@@ -1,29 +1,18 @@
----
 # Academic & Research Experience
-## PhD Research (2021–2025)
 
+## PhD Research (2021–2025)
 **[Department of Theory of Quantum Systems](https://acmin.agh.edu.pl/en/research/department-of-theory-of-quantum-systems)**  
-**[ACMiN](https://acmin.agh.edu.pl/), [AGH University of Krakow](https://www.agh.edu.pl/en/), Poland**  
-Supervisor: **[Dr. hab. inż. Michał P. Nowak](http://mpnowak.org/)**  
+**[Academic Centre for Materials and Nanotechnology (ACMiN)](https://acmin.agh.edu.pl/),  
+[AGH University of Krakow](https://www.agh.edu.pl/en/), Poland**
+
+Supervisor: **[Dr. hab. inż. Michał P. Nowak](http://mpnowak.org/)**
 
 **Dissertation:**  
 *Electronic Transport and Topological Superconductivity in Nanoscopic Josephson Junctions*  
 **Status:** Submitted
 
-**Research focus (summary):**  
-Quantum transport in Josephson junctions, with emphasis on **Andreev bound states**, **Majorana bound states**, **magnetic vector potential effects**, and transport signatures of **topological superconductivity**.
-
-<details>
-<summary><strong>Research details</strong></summary>
-
-My PhD research investigates quantum transport in nanoscopic and planar Josephson junctions.  
-Andreev bound-state spectra in perpendicular magnetic fields are analyzed, demonstrating how the **magnetic vector potential** induces relative phase shifts that explain experimental tunneling spectra, such as those observed by the [Goswami Lab at Qutech, TU Delft](https://qutech.nl/lab/goswami-lab/).  
-
-The interplay between **spin–orbit coupling** and magnetic field enables **nonlocal conductance** as a probe of topological superconductivity. Realistic device effects, including phase slips in superconducting loops, hinder the emergence of Majorana bound states at low magnetic fields. To overcome these limitations, elongated Josephson junction geometries are proposed, widening the accessible phase range and reducing the magnetic field required for topological transitions.  
-
-The work further examines how **spin–orbit coupling** and **Zeeman interaction** modify subgap conductance features arising from **multiple Andreev reflections** in voltage-biased Josephson junctions.
-
-</details>
+**Research overview:**  
+My PhD research focuses on quantum transport in nanoscopic and planar Josephson junctions, addressing the physics of **Andreev bound states**, **Majorana bound states**, and transport signatures of **topological superconductivity**. Andreev bound-state spectra in perpendicular magnetic fields are analyzed, demonstrating how the **magnetic vector potential** induces relative phase shifts that provide a transparent explanation of experimental tunneling spectra, such as those observed by the [Goswami Lab at Qutech, TU Delft](https://qutech.nl/lab/goswami-lab/). The interplay between **spin–orbit coupling** and magnetic field is shown to enable **nonlocal conductance** as a reliable probe of topological superconductivity. Realistic device limitations, including phase slips in junctions embedded in superconducting loops, are found to hinder the emergence of Majorana bound states at low magnetic fields. To overcome these constraints, elongated Josephson junction geometries are proposed, widening the accessible phase interval and reducing the magnetic field required for topological transitions. The work further examines how **spin–orbit coupling** and **Zeeman interaction** modify subgap conductance features arising from **multiple Andreev reflections** in voltage-biased Josephson junctions, providing guidance for experimental implementations of topological devices.
 
 ---
 
