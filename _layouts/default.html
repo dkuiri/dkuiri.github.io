@@ -3,7 +3,10 @@
   <head>
     <meta charset="UTF-8">
     <title>{{ page.title | escape }} • {{ site.title | escape }}</title>
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+
+    <link rel="stylesheet"
+          href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+
     <style>
       .sidebar {
         width: 260px;
@@ -30,20 +33,30 @@
   </head>
 
   <body>
+
+    <!-- Sidebar -->
     <div class="sidebar">
-      <h2>{{ site.title }}</h2>
+      <h2 style="margin-bottom: 15px;">
+        <a href="/" style="text-decoration:none; color:inherit;">
+          {{ site.title }}
+        </a>
+      </h2>
+
+      <div class="nav-item"><a href="/">Home</a></div>
 
       <!-- <div class="nav-item"><a href="/about/">About Me</a></div> -->
-      <div class="nav-item"><a href="/research/">Research interests</a></div>
+      <div class="nav-item"><a href="/research/">Research</a></div>
       <div class="nav-item"><a href="/publications/">Publications</a></div>
-      <div class="nav-item"><a href="/experience/">Research experience</a></div>
-      <div class="nav-item"><a href="/skills/">Technical skills</a></div>
+      <div class="nav-item"><a href="/experience/">Research Experience</a></div>
+      <div class="nav-item"><a href="/skills/">Technical Skills</a></div>
       <div class="nav-item"><a href="/contact/">Contact</a></div>
     </div>
 
+    <!-- Main content -->
     <div class="content">
       {{ content }}
     </div>
+
   </body>
 </html>
 
