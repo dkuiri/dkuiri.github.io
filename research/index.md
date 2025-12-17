@@ -1,3 +1,7 @@
+---
+layout: default
+title: Research
+---
 # Research
 
 My research focuses on understanding **quantum transport phenomena** and **topological superconductivity** in nanoscale and low-dimensional systems.
