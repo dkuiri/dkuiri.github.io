@@ -1,3 +1,7 @@
+---
+layout: default
+title: Research Experience
+---
 # Academic & Research Experience
 
 ## PhD Research (2021–2025)
