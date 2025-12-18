@@ -3,7 +3,7 @@ layout: default
 title: Technical & Research Skills
 ---
 
-# Technical and Transferable Research Skills
+# Technical and Research Skills
 
 ---
 
