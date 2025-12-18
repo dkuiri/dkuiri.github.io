@@ -36,7 +36,6 @@ title: Technical & Research Skills
 - VS Code, Jupyter, Conda environments
 
 ---
----
 ## Code Availability
 
 All research codes developed during my doctoral and research projects are archived and citable via **Zenodo** for transparency and reproducibility.
