@@ -31,7 +31,7 @@ title: Technical & Research Skills
 
 ## Tools & Software
 - Linux, Git, LaTeX  
-- Inkscape (technical illustrations)  
+- Inkscape 
 - GNU Octave / MATLAB  
 - VS Code, Jupyter, Conda environments
 
