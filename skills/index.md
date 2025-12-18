@@ -33,16 +33,16 @@ title: Technical & Research Skills
 - Linux, Git, LaTeX  
 - Inkscape (technical illustrations)  
 - GNU Octave / MATLAB  
-- VS Code, Jupyter, Conda environments 
----
+- VS Code, Jupyter, Conda environments
 
+---
+---
 ## Code Availability
 
 All research codes developed during my doctoral and research projects are archived and citable via **Zenodo** for transparency and reproducibility.
 
 Representative examples include:
-
-- https://zenodo.org/records/8086328
-- https://zenodo.org/records/13740205
-- https://zenodo.org/records/17544732
+- [Zenodo Record 8086328](https://zenodo.org/records/8086328)
+- [Zenodo Record 13740205](https://zenodo.org/records/13740205)
+- [Zenodo Record 17544732](https://zenodo.org/records/17544732)
 
