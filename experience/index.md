@@ -51,7 +51,7 @@ The M.Sc. project involved first-principles electronic-structure calculations ba
 
 ---
 
-## B.Sc. in Physics (Honours)
+## B.Sc. in Physics (Honours) (2013-2016)
 **[Department of Physics, Raghunathpur College](https://raghunathpurcollege.ac.in/en?homelink=69269776&linktitle=Physics)**
 Purulia, India
 
