@@ -33,6 +33,14 @@ This research investigated vortex pinning and structural transitions of vortex l
 
 ---
 
+## M.Sc. in Physics — Theoretical Condensed Matter Physics (2016–2018)
+**Savitribai Phule Pune University (University of Pune), India**
+
+**Academic focus:**
+Numerical implementations of the **transfer-matrix (β-transfer integral) method for the Ising model** and simulations of the **Bose–Hubbard model**, developed in **Fortran**, with emphasis on lattice models andmany-body physics in condensed matter systems.
+
+---
+
 ## M.Sc. Research Project (2017–2018)
 **National Chemical Laboratory (NCL), Pune, India**
 
@@ -41,3 +49,10 @@ Supervisor: **[Dr. Kavita Joshi](https://scholar.google.com/citations?user=IzJrY
 **Research overview:**  
 The M.Sc. project involved first-principles electronic-structure calculations based on **density functional theory (DFT)** to investigate surface reactions. Slab models of Ag surfaces were constructed using a 2×2 supercell with multiple atomic layers and variable vacuum spacing along the surface-normal direction. Total-energy calculations were performed to study adsorption and reaction energetics of molecules such as CO₂, O₂, and CH₄. This work provided hands-on experience in DFT-based surface-science modeling and computational materials physics.
 
+---
+
+## B.Sc. in Physics (Honours)
+**[Department of Physics, Raghunathpur College](https://raghunathpurcollege.ac.in/en?homelink=69269776&linktitle=Physics)**
+Purulia, India
+
+---
