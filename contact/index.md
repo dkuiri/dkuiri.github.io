@@ -53,7 +53,7 @@ research discussions and potential collaborations..
 ## Institutional Affiliation
 
 **Academic Centre for Materials and Nanotechnology (ACMiN)**  
-[Department of Theory of Quantum Systems](https://acmin.agh.edu.pl/en/research/department-of-theory-of-quantum-systems)  
+[Department of Theory of Quantum Systems](https://acmin.agh.edu.pl/en/research/department-of-theory-of-quantum-systems/team-ztuk)  
 [Academic Centre for Materials and Nanotechnology (ACMiN)](https://acmin.agh.edu.pl/)  
 [AGH University of Krakow](https://www.agh.edu.pl/en/)  
 Kraków, Poland.
