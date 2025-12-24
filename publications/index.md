@@ -2,6 +2,7 @@
 
 Below is a list of my peer-reviewed journal articles.
 
+
 ---
 
 ## 🧾 Journal Articles
@@ -32,5 +33,7 @@ Below is a list of my peer-reviewed journal articles.
    [DOI: 10.1021/acs.nanolett.2c01047](https://doi.org/10.1021/acs.nanolett.2c01047)
 
 ---
+
+**BaDAP AGH [**https://badap.agh.edu.pl/autor/kuiri-dibyendu-055169]**
 
 [← Back to Home](/)
