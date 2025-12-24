@@ -2,9 +2,9 @@
 layout: default
 title: Research Experience
 ---
-# Academic & Research Experience
+# Academic & research experience
 
-## PhD Research (2021–2025)
+## PhD research (2021–2025)
 **[Department of Theory of Quantum Systems](https://acmin.agh.edu.pl/en/research/department-of-theory-of-quantum-systems)**  
 **[Academic Centre for Materials and Nanotechnology (ACMiN)](https://acmin.agh.edu.pl/),  
 [AGH University of Krakow](https://www.agh.edu.pl/en/), Poland**
@@ -20,7 +20,7 @@ My PhD research focuses on quantum transport in nanoscopic and planar Josephson 
 
 ---
 
-## Junior Research Fellow (DST–SERB) — 2018–2021
+## Junior research fellow (DST–SERB) — 2018–2021
 **Department of Physics,  
 Savitribai Phule Pune University (University of Pune), India**
 
@@ -33,11 +33,11 @@ This research investigated vortex pinning and structural transitions of vortex l
 
 ---
 
-## M.Sc. in Physics — Theoretical Condensed Matter Physics (2016–2018)
+## M.Sc. in physics — theoretical condensed matter physics (2016–2018)
 **Savitribai Phule Pune University (University of Pune), India**
 
 **Academic focus:**
-Numerical implementations of the **transfer-matrix (β-transfer integral) method for the Ising model** and simulations of the **Bose–Hubbard model**, developed in **Fortran**, with emphasis on lattice models andmany-body physics in condensed matter systems.
+Numerical implementations of the **transfer-matrix (β-transfer integral) method for the Ising model** and simulations of the **Bose–Hubbard model**, developed in **Fortran**, with emphasis on lattice models and many-body physics in condensed matter systems.
 
 ---
 
@@ -53,6 +53,7 @@ The M.Sc. project involved first-principles electronic-structure calculations ba
 
 ## B.Sc. in Physics (Honours) (2013-2016)
 **[Department of Physics, Raghunathpur College](https://raghunathpurcollege.ac.in/en?homelink=69269776&linktitle=Physics)**
-Purulia, India
+Purulia, India.
+**[Sidho-Kanho-Birsha University, Purulia, West Bengal, India](https://skbu.ac.in/)**
 
 ---
