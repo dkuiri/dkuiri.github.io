@@ -55,6 +55,7 @@ The M.Sc. project involved first-principles electronic-structure calculations ba
 **[Department of Physics, Raghunathpur College](https://raghunathpurcollege.ac.in/en?homelink=69269776&linktitle=Physics)**
 Purulia, India,
 
-**[Sidho-Kanho-Birsha University, Purulia, West Bengal, India](https://skbu.ac.in/)**
+**[Sidho-Kanho-Birsha University](https://skbu.ac.in/)**
+Purulia, West Bengal, India.
 
 ---
