@@ -34,6 +34,6 @@ Below is a list of my peer-reviewed journal articles.
 
 ---
 
-**BaDAP AGH [**https://badap.agh.edu.pl/autor/kuiri-dibyendu-055169]**
+**[BaDAP AGH](https://badap.agh.edu.pl/autor/kuiri-dibyendu-055169)**
 
 [← Back to Home](/)
