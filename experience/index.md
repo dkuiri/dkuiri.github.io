@@ -1,4 +1,4 @@
----
+--i-
 layout: default
 title: Research Experience
 ---
@@ -12,7 +12,7 @@ title: Research Experience
 Supervisor: **[Dr. hab. inż. Michał P. Nowak](http://mpnowak.org/)**
 
 **Dissertation:**  
-*Electronic Transport and Topological Superconductivity in Nanoscopic Josephson Junctions*  
+*Electronic Transport and Topological Superconductivity in Nanoscopic Josephson Junctions* [Available at](https://bip.malopolska.pl/agh,a,2776181,msc-dibyendu-kuiri.html) 
 **Status:** Submitted
 
 **Research overview:**  
