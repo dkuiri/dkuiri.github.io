@@ -1,4 +1,4 @@
---i-
+---
 layout: default
 title: Research Experience
 ---
@@ -12,7 +12,9 @@ title: Research Experience
 Supervisor: **[Dr. hab. inż. Michał P. Nowak](http://mpnowak.org/)**
 
 **Dissertation:**  
-*Electronic Transport and Topological Superconductivity in Nanoscopic Josephson Junctions* [Available at](https://bip.malopolska.pl/agh,a,2776181,msc-dibyendu-kuiri.html) 
+*Electronic Transport and Topological Superconductivity in Nanoscopic Josephson Junctions* 
+**Thesis available at:** [bip](https://bip.malopolska.pl/agh,a,2776181,msc-dibyendu-kuiri.html)
+
 **Status:** Submitted
 
 **Research overview:**  
@@ -20,7 +22,7 @@ My PhD research focuses on quantum transport in nanoscopic and planar Josephson 
 
 ---
 
-## Junior research fellow (DST–SERB) — 2018–2021
+## Junior Research Fellow (DST–SERB) — 2018–2021
 **Department of Physics,  
 Savitribai Phule Pune University (University of Pune), India**
 
@@ -33,7 +35,7 @@ This research investigated vortex pinning and structural transitions of vortex l
 
 ---
 
-## M.Sc. in physics — theoretical condensed matter physics (2016–2018)
+## M.Sc. in Physics — Theoretical Condensed Matter Physics (2016–2018)
 **Savitribai Phule Pune University (University of Pune), India**
 
 **Academic focus:**
