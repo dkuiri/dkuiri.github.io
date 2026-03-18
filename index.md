@@ -6,7 +6,7 @@ title: Dibyendu Kuiri
 
   <!-- Left: Photo -->
   <div style="flex: 0 0 230px;">
-    <img src="/assets/photo.jpg" alt="Dibyendu Kuiri" width="230" 
+    <img src="/assets/my_photo_new.jpeg" alt="Dibyendu Kuiri" width="230" 
          style="border-radius:10px; box-shadow:0px 0px 8px rgba(0,0,0,0.2);">
   </div>
 
