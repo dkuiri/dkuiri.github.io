@@ -25,14 +25,16 @@ title: Dibyendu Kuiri
 
     <p style="line-height: 1.6;">
        I am a condensed matter physicist from Purulia, West Bengal, India. 
-       I successfully defended my <strong>Ph.D. thesis</strong> on <strong>March 13, 2026</strong> at 
-       <a href="https://www.agh.edu.pl/en/"><strong>AGH University of Krakow</strong></a>, Poland.
+       I successfully defended my <strong>Ph.D. thesis</strong> on <strong>March 13, 2026</strong> at the
+       <a href="https://acmin.agh.edu.pl/"><strong>ACMiN</strong></a>,
+       <a href="https://www.agh.edu.pl/en/"><strong>AGH University of Krakow</strong></a>, Krakow, Poland.
     </p>
 
     <p style="line-height: 1.6;">
        My doctoral research, titled <strong>“Electronic Transport and Topological Superconductivity in Nanoscopic Josephson Junctions”</strong>, was carried out under the supervision of 
-    <a href="https://mpnowak.org"><strong>Prof. Michał P. Nowak</strong></a> 
-       at the Academic Centre for Materials and Nanotechnology (ACMiN).
+    <a href="https://mpnowak.org"><strong>Prof. Michał P. Nowak</strong></a>  at the
+    <a href="https://acmin.agh.edu.pl/"><strong>ACMiN</strong></a>, 
+    <a href="https://www.agh.edu.pl/en/"><strong>AGH University of Krakow</strong></a>, Krakow, Poland.
     </p>
 
     <p style="line-height: 1.6;">
