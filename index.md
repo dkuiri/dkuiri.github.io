@@ -13,7 +13,7 @@ title: Dibyendu Kuiri
   <!-- Right: Text -->
   <div style="flex: 1;">
     <h1> Dr. Dibyendu Kuiri</h1>
-    <p><em>Condensed matter researcher  |  Quantum transport & superconductivity</em></p>
+    <p><em>Condensed matter physicist  |  Quantum transport & superconductivity</em></p>
 
     <p style="margin-top: 8px;">
       <a href="https://scholar.google.com/citations?user=K1jTqmYAAAAJ">Google Scholar</a> •
