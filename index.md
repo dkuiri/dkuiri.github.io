@@ -12,7 +12,7 @@ title: Dibyendu Kuiri
 
   <!-- Right: Text -->
   <div style="flex: 1;">
-    <h1>Dibyendu Kuiri</h1>
+    <h1> Dr. Dibyendu Kuiri</h1>
     <p><em>Condensed matter researcher  |  Quantum transport & superconductivity</em></p>
 
     <p style="margin-top: 8px;">
