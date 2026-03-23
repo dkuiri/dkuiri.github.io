@@ -40,7 +40,7 @@ title: Dibyendu Kuiri
     <p style="line-height: 1.6;">
       My research focuses on <strong>quantum transport</strong> in hybrid 
       superconducting nanostructures, with particular emphasis on <strong
-      >Andreev bound states</strong>, <strong>multiple Andreev reflections</strong>, 
+      >Andreev bound states</strong>, <strong>Majorana bound states</strong>, <strong>multiple Andreev reflections</strong>, 
       and transport signatures of <strong>topological superconductivity</strong>.
     </p>
   </div>
