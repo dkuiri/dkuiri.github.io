@@ -25,8 +25,8 @@ title: Dibyendu Kuiri
 
     <p style="line-height: 1.6;">
        I am a condensed matter physicist from Purulia, West Bengal, India. 
-       I was awarded my <strong>Ph.D.</strong> in March 2026 from AGH University of Krakow, Poland. 
-       I successfully defended my thesis on March 13, 2026.
+       I successfully defended my <strong>Ph.D. thesis</strong> on <strong>March 13, 2026</strong> at 
+       <a href="https://www.agh.edu.pl/en/"><strong>AGH University of Krakow</strong></a>, Poland.
     </p>
 
     <p style="line-height: 1.6;">
