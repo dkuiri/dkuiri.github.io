@@ -24,10 +24,10 @@ title: Dibyendu Kuiri
     </p>
 
     <p style="line-height: 1.6;">
-       I am a condensed matter physicist from Purulia, West Bengal, India. 
-       I successfully defended my <strong>Ph.D. thesis</strong> on <strong>March 13, 2026</strong> and awarded the <strong>PhD degree</strong> on <strong>March 19, 2026 at the
-       <a href="https://acmin.agh.edu.pl/"><strong>ACMiN</strong></a>,
-       <a href="https://www.agh.edu.pl/en/"><strong>AGH University of Krakow</strong></a>, Krakow, Poland.
+       I am a condensed matter researcher from Purulia, West Bengal, India.
+       I successfully defended my <strong>Ph.D. thesis</strong> on <strong>March 13, 2026</strong> and was awarded my <strong>Ph.D.</strong> on <strong>March 19, 2026</strong> at the 
+       <a href="https://acmin.agh.edu.pl/"><strong>ACMiN</strong></a>, 
+       <a href="https://www.agh.edu.pl/en/"><strong>AGH University of Krakow</strong></a>, Poland..
     </p>
 
     <p style="line-height: 1.6;">
