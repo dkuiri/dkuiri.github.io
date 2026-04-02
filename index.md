@@ -20,7 +20,7 @@ title: Dibyendu Kuiri
       <a href="https://github.com/dkuiri">GitHub</a> •
       <a href="https://www.linkedin.com/in/dibyendu-kuiri-157782200/">LinkedIn</a> •
       <a href="https://www.researchgate.net/profile/Dibyendu-Kuiri">ResearchGate</a> •
-      <a href="https://orcid.org/0000-0001-7555-3708">ORCID</a>
+      <a href="https://orcid.org/0000-0001-7555-3708"><strong>ORCID:</strong> 0000-0001-7555-3708</a>
     </p>
 
     <p style="line-height: 1.6;">
