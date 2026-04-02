@@ -18,7 +18,6 @@ title: Dibyendu Kuiri
     <p style="margin-top: 8px;">
       <a href="https://scholar.google.com/citations?user=K1jTqmYAAAAJ">Google Scholar</a> •
       <a href="https://github.com/dkuiri">GitHub</a> •
-      <a href="https://www.linkedin.com/in/dibyendu-kuiri-157782200/">LinkedIn</a> •
       <a href="https://www.researchgate.net/profile/Dibyendu-Kuiri">ResearchGate</a> •
       <a href="https://orcid.org/0000-0001-7555-3708"><strong>ORCID:</strong> 0000-0001-7555-3708</a>
     </p>
