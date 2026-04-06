@@ -15,7 +15,7 @@ Below is a list of my peer-reviewed journal articles.
 4. **Enhancement of the topological regime in elongated Josephson junctions**  
    **D. Kuiri**, P. Wójcik, M. P. Nowak  
    **Physical Review B** **111**, **085416 (2025)**.  
-   [DOI](https://doi.org/10.1103/PhysRevB.111.085416)
+   [DOI: 10.1103/PhysRevB.111.085416](https://doi.org/10.1103/PhysRevB.111.085416)
 
 3. **Controlling vortex lattice structure of binary Bose–Einstein condensates via disorder-induced vortex pinning**  
    **D. Kuiri**, T. Mithun, B. Dey  
