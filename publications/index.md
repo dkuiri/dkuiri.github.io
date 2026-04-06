@@ -27,7 +27,7 @@ Below is a list of my peer-reviewed journal articles.
 
 1. **Controlling Andreev Bound States with the Magnetic Vector Potential**  
    C. M. Moehle, P. K. Rout, N. A. Jainandunsing, **D. Kuiri**, C. T. Ke, D. Xiao, *et al.*  
-   [Nano Lett. 22, 8601 (2022)](https://doi.org/10.1021/acs.nanolett.2c01047)
+   [**Nano Lett. 22, 8601 (2022)**](https://doi.org/10.1021/acs.nanolett.2c03130)
 
 ---
 
