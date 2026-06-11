@@ -23,7 +23,7 @@ title: Dibyendu Kuiri
     </p>
 
     <p style="line-height: 1.6;">
-       I am a condensed matter researcher from Purulia, West Bengal, India.
+       I am a condensed matter researcher working on quantum transport and topological superconductivity in hybrid nanostructures.
        I successfully defended my <strong>Ph.D. thesis</strong> on <strong>March 13, 2026</strong> and was awarded my <strong>Ph.D.</strong> on <strong>March 19, 2026</strong> at the 
        <a href="https://acmin.agh.edu.pl/"><strong>ACMiN</strong></a>, 
        <a href="https://www.agh.edu.pl/en/"><strong>AGH University of Krakow</strong></a>, Poland.
