@@ -13,7 +13,7 @@ title: Dibyendu Kuiri
   <!-- Right: Text -->
   <div style="flex: 1;">
     <h1> Dr. Dibyendu Kuiri</h1>
-    <p style="font-size:1.12em; color:#334155; font-weight:500;">
+    <p style="font-size:1em; color:#334155; font-weight:500;">
 Condensed matter physicist | Quantum transport • Topological superconductivity
 </p>
     <p style="color:#0F766E; font-weight:600;">
