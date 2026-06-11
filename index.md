@@ -2,7 +2,7 @@
 layout: default
 title: Dibyendu Kuiri
 ---
-<div style="display: flex; align-items: center; gap: 30px; margin-bottom: 30px;">
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
 
   <!-- Left: Photo -->
   <div style="flex: 0 0 230px;">
@@ -13,11 +13,11 @@ title: Dibyendu Kuiri
   <!-- Right: Text -->
   <div style="flex: 1;">
     <h1> Dr. Dibyendu Kuiri</h1>
-    <p style="font-size:1.15em; color:#334155; font-weight:500;">
+    <p style="font-size:1.12em; color:#334155; font-weight:500;">
 Condensed matter physicist | Quantum transport • Topological superconductivity
 </p>
     <p style="color:#0F766E; font-weight:600;">
-Seeking postdoctoral opportunities in quantum transport, and non-Hermitian physics.
+Seeking postdoctoral opportunities in quantum transport and non-Hermitian physics.
 </p>
 
     <p style="margin-top: 8px;">
