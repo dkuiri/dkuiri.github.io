@@ -28,24 +28,15 @@ Seeking postdoctoral opportunities in quantum transport and non-Hermitian physic
     </p>
 
     <p style="line-height: 1.6;">
-       I am a condensed matter researcher working on quantum transport and topological superconductivity in hybrid nanostructures.
-       I successfully defended my <strong>Ph.D. thesis</strong> on <strong>March 13, 2026</strong> and was awarded my <strong>Ph.D.</strong> on <strong>March 19, 2026</strong> at the 
-       <a href="https://acmin.agh.edu.pl/"><strong>ACMiN</strong></a>, 
-       <a href="https://www.agh.edu.pl/en/"><strong>AGH University of Krakow</strong></a>, Poland.
+       I am a condensed matter physicist working in mesoscopic physics, with a focus on quantum transport and topological superconductivity in hybrid nanostructures. My interests also include open quantum systems and non-Hermitian physics. I obtained my Ph.D. in 2026 from <a href="https://acmin.agh.edu.pl/"><strong>ACMiN</strong></a>, <a href="https://www.agh.edu.pl/en/"><strong>AGH University of Krakow</strong></a>, Poland, under the supervision of <a href="https://mpnowak.org"><strong>Prof. Michał P. Nowak</strong></a>.
     </p>
 
     <p style="line-height: 1.6;">
-       My doctoral research, titled <strong>“Electronic Transport and Topological Superconductivity in Nanoscopic Josephson Junctions”</strong>, was carried out under the supervision of 
-    <a href="https://mpnowak.org"><strong>Prof. Michał P. Nowak</strong></a>  at the
-    <a href="https://acmin.agh.edu.pl/"><strong>ACMiN</strong></a>, 
-    <a href="https://www.agh.edu.pl/en/"><strong>AGH University of Krakow</strong></a>, Krakow, Poland.
+       My doctoral dissertation, titled <strong>"Electronic Transport and Topological Superconductivity in Nanoscopic Josephson Junctions"</strong>, investigated transport signatures of topological superconductivity in hybrid semiconductor–superconductor nanostructures, including Josephson junctions and multiterminal devices.
     </p>
 
     <p style="line-height: 1.6;">
-      My research focuses on <strong>quantum transport</strong> in hybrid 
-      superconducting nanostructures, with particular emphasis on <strong
-      >Andreev bound states</strong>, <strong>Majorana bound states</strong>, <strong>multiple Andreev reflections</strong>, 
-      and transport signatures of <strong>topological superconductivity</strong>.
+       My work focuses on hybrid semiconductor–superconductor nanostructures, including <strong>Andreev bound states</strong>, <strong>Majorana bound states</strong>, <strong>multiple Andreev reflections</strong>, and <strong>topological superconductivity</strong> in planar Josephson junctions. I employ theoretical and computational approaches based on <strong>scattering theory</strong>, <strong>Green's functions</strong>, and time-dependent quantum transport simulations.
     </p>
   </div>
 
