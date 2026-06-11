@@ -1,0 +1,32 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Body text */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Inter", sans-serif;
+    color: #334155;
+    line-height: 1.7;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    color: #0F172A;
+    font-weight: 700;
+}
+
+/* Links */
+a {
+    color: #0891B2;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #0369A1;
+}
+
+/* Sidebar name */
+header h1 {
+    color: #0F172A;
+}
