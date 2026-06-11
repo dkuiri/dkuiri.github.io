@@ -28,7 +28,7 @@ Seeking postdoctoral opportunities in quantum transport and non-Hermitian physic
     </p>
 
     <p style="line-height: 1.6;">
-       I am a condensed matter physicist working in mesoscopic physics, with a focus on quantum transport and topological superconductivity in hybrid nanostructures. My interests also include <strong>open quantum systems<strong> and <strong>non-Hermitian physics<strong>. I obtained my Ph.D. in 2026 from <a href="https://acmin.agh.edu.pl/"><strong>ACMiN</strong></a>, <a href="https://www.agh.edu.pl/en/"><strong>AGH University of Krakow</strong></a>, Poland, under the supervision of <a href="https://mpnowak.org"><strong>Prof. Michał P. Nowak</strong></a>.
+       I am a condensed matter physicist working in mesoscopic physics, with a focus on quantum transport and topological superconductivity in hybrid nanostructures. My interests also include open quantum systems and non-Hermitian physics. I obtained my Ph.D. in 2026 from <a href="https://acmin.agh.edu.pl/"><strong>ACMiN</strong></a>, <a href="https://www.agh.edu.pl/en/"><strong>AGH University of Krakow</strong></a>, Poland, under the supervision of <a href="https://mpnowak.org"><strong>Prof. Michał P. Nowak</strong></a>.
     </p>
 
 
