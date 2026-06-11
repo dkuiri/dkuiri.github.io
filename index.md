@@ -13,7 +13,12 @@ title: Dibyendu Kuiri
   <!-- Right: Text -->
   <div style="flex: 1;">
     <h1> Dr. Dibyendu Kuiri</h1>
-    <p><em>Condensed matter researcher  |  Quantum transport & superconductivity</em></p>
+    <p style="font-size:1.15em; color:#334155; font-weight:500;">
+Condensed matter physicist | Quantum transport • Topological superconductivity • Non-Hermitian physics
+</p>
+    <p style="color:#0F766E; font-weight:600;">
+Seeking postdoctoral opportunities in quantum transport, topological matter, and non-Hermitian physics.
+</p>
 
     <p style="margin-top: 8px;">
       <a href="https://scholar.google.com/citations?user=K1jTqmYAAAAJ">Google Scholar</a> •
