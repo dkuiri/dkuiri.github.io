@@ -4,7 +4,7 @@ title: Research Experience
 ---
 # Academic & research experience
 
-## PhD research (2021–2025)
+## PhD research (oct 2021 – March 2026)
 **[Department of Theory of Quantum Systems](https://acmin.agh.edu.pl/en/research/department-of-theory-of-quantum-systems)**  
 **[Academic Centre for Materials and Nanotechnology (ACMiN)](https://acmin.agh.edu.pl/),  
 [AGH University of Krakow](https://www.agh.edu.pl/en/), Poland**
@@ -14,7 +14,9 @@ Supervisor: **[Prof. Michał P. Nowak](http://mpnowak.org/)**
 **Dissertation:**  
 *Electronic Transport and Topological Superconductivity in Nanoscopic Josephson Junctions.*
 
-**Thesis available at:** [bip](https://bip.malopolska.pl/agh,a,2776181,msc-dibyendu-kuiri.html)
+**Thesis:** [University Repository PDF](https://repo.agh.edu.pl/entities/publication/13e179bb-3ba0-4248-a8a6-0699339a5ecb)
+
+**Public defense announcement:** [AGH announcement](https://bip.malopolska.pl/agh,a,2776181,msc-dibyendu-kuiri.html)
 
 **Status:** Ph.D. defended on March 13, 2026.
 
@@ -23,7 +25,7 @@ My PhD research focuses on quantum transport in nanoscopic and planar Josephson 
 
 ---
 
-## Junior Research Fellow (DST–SERB) — 2018–2021
+## Junior Research Fellow (DST–SERB) (Aug 2018 – Jan 2021)
 **Department of Physics,  
 Savitribai Phule Pune University (University of Pune), India**
 
