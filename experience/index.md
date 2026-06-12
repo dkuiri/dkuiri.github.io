@@ -4,7 +4,7 @@ title: Research Experience
 ---
 # Academic & research experience
 
-## PhD research (oct 2021 – March 2026)
+## PhD research (Oct 2021 – March 2026)
 **[Department of Theory of Quantum Systems](https://acmin.agh.edu.pl/en/research/department-of-theory-of-quantum-systems)**  
 **[Academic Centre for Materials and Nanotechnology (ACMiN)](https://acmin.agh.edu.pl/),  
 [AGH University of Krakow](https://www.agh.edu.pl/en/), Poland**
