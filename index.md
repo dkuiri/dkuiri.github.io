@@ -35,6 +35,11 @@ Seeking postdoctoral opportunities in quantum transport and non-Hermitian physic
     <p style="line-height: 1.6;">
        My work focuses on hybrid semiconductor–superconductor nanostructures, including <strong>Andreev bound states</strong>, <strong>Majorana bound states</strong>, <strong>multiple Andreev reflections</strong>, and <strong>topological superconductivity</strong> in planar Josephson junctions. I employ theoretical and computational approaches based on <strong>scattering theory</strong>, <strong>Green's functions</strong>, and time-dependent quantum transport simulations.
     </p>
+
+   <p>
+      For a detailed CV, click <a href="/assets/CV.pdf"><strong>here</strong></a>.
+    </p>
+
   </div>
 
 </div>
